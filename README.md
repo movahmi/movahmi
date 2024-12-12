@@ -1,5 +1,3 @@
-# movahmi
-
 ![Profile Banner](assets/profile-banner.png)
 
 > **"Exploring AI and Beyond"**
