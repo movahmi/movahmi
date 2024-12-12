@@ -1,8 +1,5 @@
-![Profile Banner](assets/profile-banner.png)
 
-> **"Exploring AI and Beyond"**
 
----
 
 ## 📘 About Me
 Welcome! I’m Movahmi, an enthusiast in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Backend Development**. With a background in IT, I am dedicated to continuously learning and applying knowledge to solve complex challenges.
