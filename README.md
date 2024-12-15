@@ -2,9 +2,9 @@
 Hello! I’m Moch Fahmi Shah Al Hakim, a passionate **Artificial Intelligence (AI)** and **Machine Learning (ML)** enthusiast, currently expanding my expertise as a **Backend-to-Fullstack Developer**. I enjoy building scalable systems while diving deep into AI research and applications.
 
 Here’s a snapshot of my focus:
-- 📊 **Research-Oriented:** Exploring innovative applications of AI and ML for impactful solutions.
-- 🛠️ **Tech Practitioner:** Experienced in backend development, system design, and modern tech stacks.
-- 🌱 **Lifelong Learner:** Always upgrading my skills and creating meaningful projects.
+- 📊 **Research-Oriented:** Exploring innovative applications of AI and ML, particularly in Deep Learning.
+- 🛠️ **Tech Practitioner:** Transitioning from backend to fullstack, with expertise in multiple programming languages.
+- 🌱 **Lifelong Learner:** Constantly upgrading skills and engaging in meaningful projects.
 
 ---
 
