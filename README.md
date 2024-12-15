@@ -2,7 +2,7 @@
 
 
 ## 📘 About Me
-Hello! I’m Moch Fahmi Shah Al Hakim, an enthusiast in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Backend Development**. With a background in IT, I am dedicated to continuously learning and applying knowledge to solve complex challenges.
+Hello! I’m Moch Fahmi Shah Al Hakim, an enthusiast in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Fullstack Development**. With a background in IT, I am dedicated to continuously learning and applying knowledge to solve complex challenges.
 
 Here’s a snapshot of my focus:
 - 📊 **Research-Oriented:** Exploring innovative applications of AI and ML.
