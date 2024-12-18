@@ -79,7 +79,7 @@ This project provided an opportunity to investigate distributed systems concepts
 
 ---
 
-## Collaboration & Interests 🤝
+## Collaboration & Interests
 
 I am interested in collaborating on projects related to:
 
