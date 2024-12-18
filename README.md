@@ -10,7 +10,7 @@ My core interests include:
 
 ---
 
-## Technical Proficiency 🛠️
+## Technical Proficiency
 
 My current technical focus encompasses the following areas:
 
@@ -38,7 +38,7 @@ My current technical focus encompasses the following areas:
 
 ---
 
-## Projects 📂
+## Projects 
 
 **(Emphasis on methodologies and technical contributions)**
 
@@ -64,14 +64,14 @@ This project provided an opportunity to investigate distributed systems concepts
 *   **Technologies Utilized:** Go, Rust, Docker, Kubernetes
 
 ---
-## 📝 Publications
+## Publications
 
 - *"Optimizing Neural Networks for Small Datasets: Techniques and Best Practices"*  
 - *"Understanding Distributed Systems in AI Workflows"*
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - **Email:** [movahmi@gmail.com](mailto:movahmi@gmail.com)  
 - **GitHub:** [github.com/movahmi](https://github.com/movahmi)  
