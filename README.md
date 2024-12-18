@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Moch Fahmi Shah Al Hakim, a developer with a focused interest in **Machine Learning (ML)** and a solid foundation in **backend systems**. My current trajectory involves expanding my expertise into **full-stack development**, with a particular emphasis on building data-driven applications.
+I'm Moch Fahmi Shah Al Hakim, a developer with a focused interest in **Machine Learning (ML)** and a solid foundation in **Backend Systems**. My current trajectory involves expanding my expertise into **Full-Stack development**, with a particular emphasis on building data-driven applications.
 
 My core interests include:
 
@@ -14,39 +14,27 @@ My core interests include:
 
 My current technical focus encompasses the following areas:
 
-**Programming Languages:**
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
-*   **Backend Development:**
-    *   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) (Proficient)
-    *   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (Learning)
-*   **Frontend Development:**
-    *   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (Learning)
-    *   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) (Learning)
-*   **Systems Programming:** ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) (Exploring)
+### Frameworks and Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Frameworks & Libraries:**
-
-*   **Machine Learning:**
-    *   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) (Familiar)
-    *   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) (Familiar)
-*   **Backend Development:**
-    *   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-    *   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=&logoColor=white)
-*   **Frontend Development:**
-    *   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    *   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-*   **DevOps:**
-    *   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    *   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Tools & Platforms:**
-
-*   **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-*   **Operating Systems:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Data Analysis Fundamentals:**
-
-*   Developing a foundational understanding of core data analysis principles and practical application.
+### Tools and Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -76,12 +64,18 @@ This project provided an opportunity to investigate distributed systems concepts
 *   **Technologies Utilized:** Go, Rust, Docker, Kubernetes
 
 ---
+## 📝 Publications
 
-## Connect 🌐
+- *"Optimizing Neural Networks for Small Datasets: Techniques and Best Practices"*  
+- *"Understanding Distributed Systems in AI Workflows"*
 
-*   **Email:** [movahmi@gmail.com](mailto:movahmi@gmail.com)
-*   **GitHub:** [github.com/movahmi](https://github.com/movahmi)
-*   **LinkedIn:** [linkedin.com/in/movahmi](https://linkedin.com/in/movahmi)
+---
+
+## 🌐 Connect with Me
+
+- **Email:** [movahmi@gmail.com](mailto:movahmi@gmail.com)  
+- **GitHub:** [github.com/movahmi](https://github.com/movahmi)  
+- **LinkedIn:** [linkedin.com/in/movahmi](https://linkedin.com/in/movahmi)  
 
 ---
 
@@ -94,3 +88,4 @@ I am interested in collaborating on projects related to:
 *   Full-stack application development leveraging contemporary frameworks.
 
 I welcome opportunities to contribute to challenging and innovative projects. Please feel free to connect.
+
